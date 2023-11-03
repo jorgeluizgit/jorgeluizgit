@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jorgeluizgit
 - 👀 I’m interested in movies, programming, books and music
 - 🌱 I’m currently learning Python in college
-- 📫 How to reach me: @jorgecomesal on Twitter(or X idk) and steelydangaucho in Discord
+- 📫 How to reach me: @jorgecomesal on Twitter(or X idk), steelydangaucho in Discord and in Linkedin --> https://www.linkedin.com/in/jorge-luiz-38303129a/
 
 <!---
 jorgeluizgit/jorgeluizgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
