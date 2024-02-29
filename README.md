@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgeluizgit
 - 👀 I’m interested in movies, programming, books and music
-- 🌱 I currently study Computer Sciences on my 2nd period at Universidade Tiradentes (Sergipe)
+- 🌱 I'm currently on my 2nd term studying Computer Sciences at Universidade Tiradentes (Sergipe)
 - 📫 How to reach me: @jorgecomesal on Twitter(or X idk), steelydangaucho in Discord and in Linkedin https://www.linkedin.com/in/jorge-luiz-38303129a/
 
 <!---
